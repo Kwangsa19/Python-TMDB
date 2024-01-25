@@ -15,7 +15,7 @@ This data set is fetched using exception handling process so the data set contai
 P.S: In the overview section, there are 30 missing data. In this Analysis, we will remove those data. 
 
 ## Implementation
-* `Import libraries` : pandas, numpy, matplotlib.pyplot, seaborn.
+* `Import libraries`: pandas, numpy, matplotlib.pyplot, seaborn.
 * `Load dataset`: Load the dataset and check the dataset.
 * `Drop the missing row`: There are 30 data in overview column.
 * `Check the missing values once again`: Investigate the missing values after dropping 30 data.
