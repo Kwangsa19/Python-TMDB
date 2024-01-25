@@ -32,4 +32,4 @@ P.S: In the overview section, there are 30 missing data. In this Analysis, we wi
   ![Top 10 Movies - Weighted Average Formula (Based on IMDB)](https://github.com/Kwangsa19/Python-TMDB/assets/135963482/c6c848a8-9460-48df-93a8-67d625fa0b64)
 
 ## Future Works
-* To find the similar movies based on its respective overview, pleave visit this [link](). 
+* To find the similar movies based on its respective overview, pleave visit this [link](https://github.com/Kwangsa19/Python-TMDB-Movie-Recommendation). 
