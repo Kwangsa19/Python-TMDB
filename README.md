@@ -17,7 +17,7 @@ P.S: In the overview section, there are 30 missing data. In this Analysis, we wi
 ## Implementation
 * `Import libraries`: pandas, numpy, matplotlib.pyplot, seaborn.
 * `Load dataset`: Load the dataset and check the dataset.
-* `Drop the missing row`: There are 30 data in overview column.
+* `Drop the missing row`: There are 30 missing data in overview column.
 * `Check the missing values once again`: Investigate the missing values after dropping 30 data.
 * `Which language has the most number of movies`: English language has the most number of movies.
   ![English - Most Number of Movies](https://github.com/Kwangsa19/Python-TMDB/assets/135963482/61270ab4-85d3-4138-ae1f-0eed63c10c13)
